@@ -1,0 +1,4 @@
+interface:
+  display_name: "Anti-AI Writing"
+  short_description: "Preserve voice while editing generic prose"
+  default_prompt: "Use $anti-ai-writing to revise this draft while preserving my meaning, voice, and language variety."
