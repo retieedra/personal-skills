@@ -1,0 +1,6 @@
+interface:
+  display_name: "Skill writer"
+  short_description: "Turn repeated instructions into focused agent skills"
+  default_prompt: "Use $skill-writer to turn this recurring workflow into a focused skill, with a clear trigger and practical checks."
+policy:
+  allow_implicit_invocation: true

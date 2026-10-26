@@ -4,6 +4,8 @@ Research-backed AI skills by [Reti Eedra](https://retieedra.com). Practical inst
 
 ## The collection
 
+- **[Skill writer](skills/skill-writer/SKILL.md)** — turn repeated instructions and working procedures into focused skills, with natural-language triggers and practical checks. Suggest saving a workflow after five distinct visible repetitions; ask before creating unless already authorized.
+
 - **[Anti-AI writing](skills/anti-ai-writing/SKILL.md)** — preserve the writer's voice, ideas, and linguistic choices while editing away generic model defaults. Informed by research on linguistic diversity and AI-assisted writing.
 - **[AEO operator 2026](skills/aeo-operator-2026/SKILL.md)** — diagnose visibility across answer engines, build a defensible measurement program, and run evidence-led improvements. Includes Profound research and platform documentation.
 - **[X Ads operator 2026](skills/x-ads-operator-2026/SKILL.md)** — plan, measure, and improve campaigns with explicit economics, conversion instrumentation, creative tests, and spending boundaries.
