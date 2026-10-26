@@ -47,3 +47,19 @@ These are invented teaching examples, not quotations from research or user writi
 **Possible response:** Ask what outcomes were measured, or suggest a supported narrower description such as “Our workshops covered interview practice and CV writing” **only if those activities are established in the supplied material**.
 
 **Why:** A forceful specific claim is not automatically better than a vague one. Never invent a promotion story, testimonial, or percentage to make copy feel authentic.
+
+## Connect related thoughts without inventing causation
+
+**Draft:** “The study involved 38 writers. They wrote argumentative essays. InstructGPT reduced diversity across the essays. GPT-3 did not show the same effect. The interface offered continuation suggestions.”
+
+**Possible edit:** “In a study of 38 writers using continuation suggestions to write argumentative essays, InstructGPT reduced diversity across the essays, while GPT-3 did not show the same effect.”
+
+**Why:** The connected sentence keeps the sample, setting, and model difference while avoiding a string of clipped statements. “While” expresses the comparison; “because” would invent a causal explanation for the difference.
+
+## Explain plainly while keeping the limit
+
+**Draft:** “The intervention precipitated a diminution in inter-author lexical heterogeneity, although external validity remains circumscribed by the experimental paradigm.”
+
+**Possible edit:** “The assistance made different writers' vocabulary more similar in this experiment, although the result may not apply to other writing settings.”
+
+**Why:** Familiar words make the finding easier to follow without turning a result from one experiment into a claim about all writing. No prescribed sentence length or vocabulary score is needed.
