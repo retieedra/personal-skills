@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grok Bot Prompts"
+  short_description: "Write context-first Grok bot workflow prompts"
+  default_prompt: "Use $grok-bot-prompts to turn these workflow notes into a copy-ready Grok bot prompt in my preferred style."

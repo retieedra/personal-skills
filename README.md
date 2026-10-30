@@ -1,8 +1,10 @@
 # Personal skills
 
-Research-backed AI skills by [Reti Eedra](https://retieedra.com). Practical instructions for writing with an individual voice, operating answer-engine optimization, and running disciplined X Ads experiments.
+Research-backed AI skills by [Reti Eedra](https://retieedra.com). Practical instructions for writing with an individual voice, designing Grok bot workflows, operating answer-engine optimization, and running disciplined X Ads experiments.
 
 ## The collection
+
+- **[Grok bot prompts](skills/grok-bot-prompts/SKILL.md)** — turn workflow ideas and meeting notes into copy-ready bot prompts, with context-building, voice learning, recurring steps, and explicit approval boundaries.
 
 - **[Skill writer](skills/skill-writer/SKILL.md)** — turn repeated instructions and working procedures into focused skills, with natural-language triggers and practical checks. Suggest saving a workflow after five distinct visible repetitions; ask before creating unless already authorized.
 
@@ -14,7 +16,7 @@ Each skill has a short `SKILL.md` entry point and supporting references. Start w
 
 ## Use a skill
 
-Download or clone this repository, then copy the **whole skill folder**, including its `references` directory, into your agent's skills directory. For a local Codex setup, that directory is `~/.codex/skills/`.
+Download or clone this repository, then copy the **whole skill folder**, including all supporting files and directories, into your agent's skills directory. For a local Codex setup, that directory is `~/.codex/skills/`.
 
 ```sh
 git clone https://github.com/retieedra/personal-skills.git
@@ -25,6 +27,8 @@ cp -R personal-skills/skills/anti-ai-writing ~/.codex/skills/
 Replace `anti-ai-writing` with another skill folder to install it. You can also read the instructions and adapt them to your own workflow.
 
 Example requests:
+
+- “Use grok-bot-prompts to turn these meeting notes into a post-call follow-up bot prompt. Learn my voice first, save email drafts, and ask for approval in Slack before sending.”
 
 - “Use anti-ai-writing to edit this essay. Keep my phrasing where it carries my voice; use these two earlier pieces as references.”
 - “Use aeo-operator-2026 to diagnose our answer-engine visibility and propose a measurable first experiment.”
